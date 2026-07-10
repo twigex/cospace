@@ -1,0 +1,24 @@
+# Cospace
+
+> Self-hosted, all-in-one private digital workspace by Twigex — files, projects, chat, video, and data dashboards in one platform. Deployable via Helm chart on Kubernetes. Free Community Edition; Commercial/Organization edition adds support, customization, and complete data isolation for cloud/hybrid/on-prem.
+
+Cospace replaces separate file-storage, task-management, chat, and BI tools with one workspace. Core areas: real-time file co-editing with MS Office compatibility; project management (Kanban/Table views, custom fields, workflows); chat and video calls linked to tasks; and a data layer for integrating, cleaning, visualizing, and automating around business data. Deployment options: cloud, hybrid, or fully self-hosted with full data isolation.
+
+## Core Resources
+- [Installation Guide](https://cospace.mytwigex.com/en/Installation): Helm chart install — all 4 MariaDB deployment modes, ingress/TLS, LiveKit, EuroOffice/Collabora, full values.yaml configuration reference
+- [Manual / Introduction](https://cospace.mytwigex.com/): product overview, getting started, browser support
+- [AGENTS.md](https://github.com/twigex/cospace/blob/main/AGENTS.md): rules and guardrails for AI coding agents deploying/operating this Helm chart
+- [SKILL.md](https://github.com/twigex/cospace/blob/main/SKILL.md): Claude Skill — condensed install/upgrade/troubleshoot operating procedure
+- [README](https://github.com/twigex/cospace/blob/main/README.md): repo overview and quickstart
+
+## Try It
+- [Live Demo](https://cospacedemo.twigex.com): no signup, browser-based, resets every 30 minutes (username: cospace, password: cospace)
+
+## Community & Company
+- [Twigex](https://twigex.com): the company behind Cospace, pricing and editions
+- [Reddit community](https://www.reddit.com/r/cospace/): user discussion and feedback
+- [Artifact Hub listing](https://artifacthub.io/packages/helm/cospace/cospace): Helm chart discovery and version history
+
+## Notes
+- The Helm chart repo (github.com/twigex/cospace) contains deployment tooling only, not the Cospace application source.
+- Required install-time values: `domain`, `cospace.admin.password`, `cospace.server.encryptKey` (32 hex chars), `redis.auth.password`, `mariadb.password` (+ `mariadb.rootPassword` unless using an externally managed database).
