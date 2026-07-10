@@ -29,7 +29,7 @@ Cospace is an all-in-one private digital workspace created by [Twigex](https://t
 [![Artifact Hub](https://img.shields.io/badge/Artifact%20Hub-cospace-417598)](https://artifacthub.io/packages/helm/cospace/cospace)
 [![Reddit](https://img.shields.io/badge/community-r%2Fcospace-FF4500)](https://www.reddit.com/r/cospace/)
 
-![Cospace workspace screenshot](https://cospace.mytwigex.com/screenshot_from_2025-02-03_16-48-40.png)
+![Cospace workspace screenshot](https://twigex.com/img/files_main_screen.png)
 
 ## What's inside
 
