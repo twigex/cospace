@@ -1,26 +1,5 @@
 # Cospace
 
-
-See the [official documentation](https://cospace.mytwigex.com/en/Installation) for setup details.
-
-More info about the project:
-
-- [https://cospace.mytwigex.com](https://cospace.mytwigex.com)
-
-- [https://twigex.com](https://twigex.com)
-
-- [https://www.reddit.com/r/cospace/](https://reddit.com/r/cospace)
-
-- [https://artifacthub.io/packages/helm/cospace/cospace](https://artifacthub.io/packages/helm/cospace/cospace)
-
-**Demo:** [Try COSPACE in your browser!](https://cospacedemo.twigex.com) (Don't post personal stuff. Resets every 30 minutes.)
-
-Username: `cospace`
-
-Password: `cospace`
-
-# Cospace
-
 **One space for all your work — files, projects, chat, video, and data, self-hosted.**
 
 Cospace is an all-in-one private digital workspace created by [Twigex](https://twigex.com). Instead of switching between a file drive, a task tracker, a chat app, and a BI tool, teams get one platform for content, processes, and data — deployable on your own Kubernetes cluster with full data isolation.
