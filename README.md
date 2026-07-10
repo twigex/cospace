@@ -46,7 +46,11 @@ Built for teams of any size and industry — marketing, HR, freelancers, dev tea
 No signup, no setup — same version you'd self-host:
 
 **[👉 Try the live demo](https://cospacedemo.twigex.com)**
-Username: `cospace` · Password: `cospace`
+
+Username: `cospace`
+
+Password: `cospace`
+
 (Don't post personal data — it resets every 30 minutes.)
 
 ## Quickstart — self-host it
