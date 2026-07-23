@@ -24,11 +24,11 @@ Built for teams of any size and industry — marketing, HR, freelancers, dev tea
 
 No signup, no setup — same version you'd self-host:
 
-**[👉 Try the live demo](https://cospacedemo.twigex.com)**
+**[👉 Try the live demo](https://demo.twigex.com)**
 
-Username: `cospace`
+Username: `twigex`
 
-Password: `cospace`
+Password: `twigex`
 
 (Don't post personal data — it resets every 30 minutes.)
 
