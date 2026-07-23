@@ -1,8 +1,8 @@
-# Cospace
+# Twigex
 
 **One space for all your work — files, projects, chat, video, and data, self-hosted.**
 
-Cospace is an all-in-one private digital workspace created by [Twigex](https://twigex.com). Instead of switching between a file drive, a task tracker, a chat app, and a BI tool, teams get one platform for content, processes, and data — deployable on your own Kubernetes cluster with full data isolation.
+Twigex is an all-in-one private digital workspace created by [Twigex](https://twigex.com). Instead of switching between a file drive, a task tracker, a chat app, and a BI tool, teams get one platform for content, processes, and data — deployable on your own Kubernetes cluster with full data isolation.
 
 [![Try the demo](https://img.shields.io/badge/demo-try%20it%20now-1976d2)](https://cospacedemo.twigex.com)
 [![Artifact Hub](https://img.shields.io/badge/Artifact%20Hub-cospace-417598)](https://artifacthub.io/packages/helm/cospace/cospace)
